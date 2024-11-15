@@ -29,6 +29,9 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+
+
+
 ## Output
 ![image](https://github.com/user-attachments/assets/5f139b7c-74f5-4a62-8e65-a0bce881e86b)
 ![image](https://github.com/user-attachments/assets/87ad9952-2271-46dd-a84e-a65ba28381f3)
