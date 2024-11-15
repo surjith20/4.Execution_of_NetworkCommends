@@ -29,13 +29,6 @@ This commands includes
 ## Output
 ![image](https://github.com/user-attachments/assets/5f139b7c-74f5-4a62-8e65-a0bce881e86b)
 ![image](https://github.com/user-attachments/assets/87ad9952-2271-46dd-a84e-a65ba28381f3)
-![image](https://github.com/user-attachments/assets/fc9ab778-28e7-4e0f-9813-8750fc3d1eb5)
-![image](https://github.com/user-attachments/assets/984542e7-e8c2-4caf-95f1-47e8dc729452)
-![image](https://github.com/user-attachments/assets/53a32a3c-031d-4e23-adda-6386575f4498)
-
-
-
-
 
 ## Result
 Thus Execution of Network commands Performed 
